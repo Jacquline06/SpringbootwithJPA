@@ -1,0 +1,3 @@
+INSERT INTO STUDENT (id,name) VALUES
+(123,'JACK'),
+(124,'SAM');
